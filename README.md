@@ -1,6 +1,7 @@
-<img  height="400px" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp"><h1 align="center">Hi 👋, I'm Locis</h1>
+[![MasterHead](https://cdn-employer-wp.arc.dev/wp-content/uploads/2022/04/software-development-costs-1128x635.jpg)](https://locis-media.de/)
+<h1 align="center">Hi 👋, I'm Locis</h1>
 <h3 align="center">Im a fullstack developer from Germany.</h3>
-
+<img align="right" width="400px" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=locis1&label=Profile%20views&color=0e75b6&style=flat" alt="locis1" /> </p>
 
 - 👨‍💻 All of my projects are available at [locis-media.de](locis-media.de)

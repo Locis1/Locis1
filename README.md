@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Locis</h1>
+<img  height="400px" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp"><h1 align="center">Hi 👋, I'm Locis</h1>
 <h3 align="center">Im a fullstack developer from Germany.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=locis1&label=Profile%20views&color=0e75b6&style=flat" alt="locis1" /> </p>

@@ -11,7 +11,6 @@
 - 🔭 Currently working on my dream project: [Zepmeusel](https://zepmeusel.locis-media.de)  
 - 🌱 Leveling up with **Angular, Node.js**  
 - 🎯 Striving to build scalable, clean, and stunning digital experiences  
-- 📫 Reach me at **kontakt@locis-media.de**  
 - 🎮 Fun Fact: I can refactor code faster than I can cook noodles 🍜  
 
 ---

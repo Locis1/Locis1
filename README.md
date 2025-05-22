@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me:
-- 🔭 Currently working on my dream project: [Zepmeusel](https://zepmeusel.com/)  
+- 🔭 Currently working on my dream project: 
 - 🌱 Leveling up with **Angular, Node.js**  
 - 🎯 Striving to build scalable, clean, and stunning digital experiences  
 - 🎮 Fun Fact: I can refactor code faster than I can cook noodles 🍜  
